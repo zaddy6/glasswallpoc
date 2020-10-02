@@ -18,3 +18,4 @@ oscap xccdf eval --remediate --profile xccdf_org.ssgproject.content_profile_pci-
 # Cleaning up openscap
 
 yum -y autoremove openscap openscap-utils scap-security-guide
+
